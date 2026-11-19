@@ -3,7 +3,7 @@
 # 🏠 SmartHostel Management System
 
 **A comprehensive, full-stack platform to digitize and streamline hostel management operations.**
-
+ 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_App-6366f1?style=for-the-badge)](https://ample-learning-production.up.railway.app)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
